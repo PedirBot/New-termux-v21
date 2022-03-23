@@ -14,7 +14,10 @@ Ubah tampilan termux versi 2
 ```bash
 pkg install git -y
 pkg install python2 -y
-git clone https://github.com/winorohadimukti/New-termux-v21
+git clone https://github.com/PedirBot/New-termux-v21
+cd New-termux-v21
+ls
+python2 run.py
 ```
 
 ## Installing the libwebp for Windows
